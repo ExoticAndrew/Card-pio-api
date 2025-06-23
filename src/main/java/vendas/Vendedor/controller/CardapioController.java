@@ -11,5 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class CardapioController {
     @GetMapping
     public void getALL(){
+    Food food
     }
 }
