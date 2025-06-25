@@ -1,4 +1,5 @@
 package vendas.Vendedor.Repository.Repository;
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import vendas.Vendedor.Food.Food;
 
