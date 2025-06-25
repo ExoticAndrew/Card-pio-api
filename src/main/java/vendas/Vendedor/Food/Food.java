@@ -1,7 +1,6 @@
 package vendas.Vendedor.Food;
 
 import jakarta.persistence.*;
-import org.springframework.data.annotation.Id;
 
 @Table(name = "foods")
 @Entity(name = "foods")
